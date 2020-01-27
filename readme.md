@@ -1,6 +1,7 @@
 folder structure
 
 .
+
 ├── ckpt (*gitignore* for tf checkpoint)
 
 
